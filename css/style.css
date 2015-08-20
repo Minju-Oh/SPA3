@@ -1,0 +1,129 @@
+/*  CSS FILE  */
+.mainWrapper{
+	min-height: 1200px;
+	/*background-color: red;*/
+}
+.header{
+	min-height:150px;
+	text-align: center;
+	font-family: Helvetica;
+
+	font-size: 20px;
+}
+
+
+.siteBody{
+	min-height: 1200px;
+}
+.siteBody > .col-md-4{
+	
+}
+
+.bottom{
+
+	padding-top: 100px;
+}
+
+.headCarousel{
+
+	margin-left: 150px;
+	margin-top: 200px;
+	margin-right: 150px;
+}
+
+.searchbo{
+
+	padding-top: 50px;
+	padding-left:80px;
+}
+.bodyContainers{
+	padding:20px;
+	min-height:400px;
+}
+.bodyContainers > .row {
+	color:black;
+}	
+.innerContainers{
+	min-height:600px;
+}
+.headers{
+	height:150px;
+}
+.myNav{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.galleryBox{
+	min-height:150px;
+}
+.gallery{
+	
+	border:0px dashed black;
+	height:150px;
+}
+
+.under{
+
+	padding-bottom: 50px;
+}
+
+.gallerypush{
+
+	margin-left: 30px;
+}
+
+.btn-danger{
+	background-color:blue;
+}
+   /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1800px) {
+	
+	}
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 1800px) {
+    
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+    
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+ 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
